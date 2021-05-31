@@ -5,7 +5,6 @@
 
 - 🔭  You can check my portfolio here [portfolio](https://thakurdiwakar.github.io/myPortfolio/)
 - 🌱 I’m currently learning everything �
--  🌱 I’m currently learning Django
 -  💬 Ask me about ... Anything
 
 ![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical)
