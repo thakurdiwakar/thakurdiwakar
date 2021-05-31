@@ -2,6 +2,7 @@
 
 ## I'm a Student, Programmer, and a WebDeveloper!!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭  You can check my portfolio here [portfolio](https://thakurdiwakar.github.io/myPortfolio/)
 - 🌱 I’m currently learning everything �
