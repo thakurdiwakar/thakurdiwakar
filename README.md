@@ -3,7 +3,7 @@
 ## I'm a Student, Programmer, and a WebDeveloper!!
 
 
-- 🔭  You can check my portfolio here [portfolio](https://thakurdiwakar.github.io/myPortfolio/)
+- 🔭  You can check my portfolio here [Portfolio](https://thakurdiwakar.github.io/myPortfolio/)
 - 🌱 I’m currently learning everything �
 -  💬 Ask me about ... Anything
 
