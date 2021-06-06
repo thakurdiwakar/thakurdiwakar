@@ -1,9 +1,9 @@
-<h2 align='center'> 🙋🏻‍♂️ Hlw aliens, I'm <a href="https://thakurdiwakar.github.io/myPortfolio/">Diwakar!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hlw aliens, I'm <a href="https://thakurdiwakar.github.io">Diwakar!</a>🧑🏻‍💻</h2>
 
 <h3 align='center'> I'm a Student, Programmer, and a WebDeveloper!!</h3>
 
 
-- 🔭  You can check my portfolio here [Portfolio](https://thakurdiwakar.github.io/myPortfolio/)
+- 🔭  You can check my portfolio here [Portfolio](https://thakurdiwakar.github.io)
 - 🌱 I’m currently learning everything �
 -  💬 Ask me about ... Anything
 
