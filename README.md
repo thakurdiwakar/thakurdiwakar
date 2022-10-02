@@ -23,7 +23,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/coder.py_/)
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurdiwakar&label=Profile%20views&color=0e75b6&style=flat" alt="thakurdiwakar" /> </p>
 
 
 
