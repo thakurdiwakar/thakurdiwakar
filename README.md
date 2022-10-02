@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning everything �
 -  💬 Ask me about ... Anything
 
+[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+### 
 ![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical)
 
 ### Connect with me:
