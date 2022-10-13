@@ -10,9 +10,11 @@
 ![profile count](https://komarev.com/ghpvc/?username=thakurdiwakar&color=red)&nbsp;
 [![GitHub thakurdiwakar](https://img.shields.io/github/followers/thakurdiwakar?label=follow&style=social)](https://github.com/thakurdiwakar)&nbsp;
 ### 
+
+<p align="center">
 ![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical)
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&" alt="thakurdiwakar" /></p> 
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&" alt="thakurdiwakar" /></p> 
 
 
 ### Connect with me:
