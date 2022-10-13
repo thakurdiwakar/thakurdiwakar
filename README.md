@@ -15,13 +15,12 @@
   
   
   
-<p align="center">
+
 <a href="https://github.com/thakurdiwakar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&" alt="thakurdiwakar"/>
 </a>
 </p>
-
 
 ### Connect with me:
 
