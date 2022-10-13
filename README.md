@@ -11,10 +11,16 @@
 [![GitHub thakurdiwakar](https://img.shields.io/github/followers/thakurdiwakar?label=follow&style=social)](https://github.com/thakurdiwakar)&nbsp;
 ### 
 
-<p align="center">
-![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical)
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&" alt="thakurdiwakar" /></p> 
+  
+  
+  
+<p align="center">
+<a href="https://github.com/thakurdiwakar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&" alt="thakurdiwakar"/>
+</a>
+</p>
 
 
 ### Connect with me:
