@@ -6,6 +6,8 @@
 - 🔭  You can check my portfolio here [Portfolio](https://thakurdiwakar.github.io)
 - 🌱 I’m currently learning everything �
 -  💬 Ask me about ... Anything
+- 📫 You can reach me at **diwkr14@gmail.com**
+
 
 ![profile count](https://komarev.com/ghpvc/?username=thakurdiwakar&color=red)&nbsp;
 [![GitHub thakurdiwakar](https://img.shields.io/github/followers/thakurdiwakar?label=follow&style=social)](https://github.com/thakurdiwakar)&nbsp;
