@@ -56,7 +56,9 @@
 <br />
 <br />
 
-
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakurdiwakar" alt="thakurdiwakar" /></a>
+</p>
   
   
 [![@thakurdiwakar's Holopin board](https://holopin.me/thakurdiwakar)](https://holopin.io/@thakurdiwakar)
