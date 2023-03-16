@@ -56,7 +56,7 @@
 <br />
 <br />
 
-div align="center">
+<div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
