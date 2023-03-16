@@ -67,6 +67,11 @@
 <br />
 <br />
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/thakurdiwakar/count.svg">  
+
 <div align="center">
   <p>Trophy: Github Profile Trophy</p>
 </div>
