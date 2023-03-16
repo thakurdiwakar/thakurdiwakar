@@ -9,6 +9,17 @@
 - 📫 You can reach me at **diwkr14@gmail.com**
 
 
+<!--   my-icons -->
+<!-- <p align="center">
+    <a href="https://github.com/thakurdiwakar/thakurdiwakar"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/thakurdiwakar/thakurdiwakar/graphs/contributors"><img src="https://img.shields.io/github/contributors/thakurdiwakar/thakurdiwakar?color=blue"></a>
+    <a href="https://github.com/thakurdiwakar/thakurdiwakar/stargazers"><img src="https://img.shields.io/github/stars/thakurdiwakar/thakurdiwakar.svg?logo=github"></a>
+    <a href="https://github.com/thakurdiwakar/thakurdiwakar/network/members"><img src="https://img.shields.io/github/forks/thakurdiwakar/thakurdiwakar.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=thakurdiwakar.thakurdiwakar" alt="visitors"/>   
+</p> -->
+
+
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thakurdiwakar&theme=github-compact)](https://github.com/thakurdiwakar/github-readme-activity-graph)
 
