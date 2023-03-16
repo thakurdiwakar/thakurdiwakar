@@ -9,6 +9,10 @@
 - 📫 You can reach me at **diwkr14@gmail.com**
 
 
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thakurdiwakar&theme=github-compact)](https://github.com/thakurdiwakar/github-readme-activity-graph)
+
+
 ![profile count](https://komarev.com/ghpvc/?username=thakurdiwakar&color=red)&nbsp;
 [![GitHub thakurdiwakar](https://img.shields.io/github/followers/thakurdiwakar?label=follow&style=social)](https://github.com/thakurdiwakar)&nbsp;
 ### 
@@ -51,6 +55,8 @@
 
 <br />
 <br />
+
+
   
   
 [![@thakurdiwakar's Holopin board](https://holopin.me/thakurdiwakar)](https://holopin.io/@thakurdiwakar)
