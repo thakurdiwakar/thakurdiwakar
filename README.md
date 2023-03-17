@@ -40,10 +40,12 @@
 
 
 
- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ds6228353@gmail.com?subject=Olá%20Punit">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-singh-0204621b6/)
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ds6228353@gmail.com?subject=Olá%20Punit">
  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  
  [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1015675212265685096)
+   
 
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
