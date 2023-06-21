@@ -4,8 +4,8 @@
 
 
 - 🔭  You can check my portfolio here [Portfolio](https://thakurdiwakar.github.io)
-- 🌱 I’m currently learning everything �
--  💬 Ask me about ... Anything
+- 🌱 I’m currently learning DSA in C++ �
+-  💬 Ask me about ...Open Source,Python,Web Development 
 - 📫 You can reach me at **diwkr14@gmail.com**
 
 
