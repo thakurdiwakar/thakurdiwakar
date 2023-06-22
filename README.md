@@ -9,17 +9,6 @@
 - 📫 You can reach me at **diwkr14@gmail.com**
 
 
-<!--   my-icons -->
-<!-- <p align="center">
-    <a href="https://github.com/thakurdiwakar/thakurdiwakar"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/thakurdiwakar/thakurdiwakar/graphs/contributors"><img src="https://img.shields.io/github/contributors/thakurdiwakar/thakurdiwakar?color=blue"></a>
-    <a href="https://github.com/thakurdiwakar/thakurdiwakar/stargazers"><img src="https://img.shields.io/github/stars/thakurdiwakar/thakurdiwakar.svg?logo=github"></a>
-    <a href="https://github.com/thakurdiwakar/thakurdiwakar/network/members"><img src="https://img.shields.io/github/forks/thakurdiwakar/thakurdiwakar.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=thakurdiwakar.thakurdiwakar" alt="visitors"/>   
-</p> -->
-
-
 
 ![profile count](https://komarev.com/ghpvc/?username=thakurdiwakar&color=red)&nbsp;
 [![GitHub thakurdiwakar](https://img.shields.io/github/followers/thakurdiwakar?label=follow&style=social)](https://github.com/thakurdiwakar)&nbsp;
@@ -32,6 +21,8 @@
 ![ github stats](https://github-readme-stats.vercel.app/api?username=thakurdiwakar&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&theme=tokyonight" alt="mystreak"/>
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurdiwakar&theme=tokyonight&layout=compact)
+
+## Watch Snake eating my contributions
 
 ![snake gif](https://github.com/thakurdiwakar/thakurdiwakar/blob/output/github-contribution-grid-snake.svg)
 
