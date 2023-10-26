@@ -22,9 +22,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdiwakar&theme=tokyonight" alt="mystreak"/>
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurdiwakar&theme=tokyonight&layout=compact)
 
-## Watch Snake eating my contributions
 
-![snake gif](https://github.com/thakurdiwakar/thakurdiwakar/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
